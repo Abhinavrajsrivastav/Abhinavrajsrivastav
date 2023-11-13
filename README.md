@@ -1,18 +1,14 @@
 
-🚀 About Me:
-Hello there! I'm a passionate developer on an exciting journey in the world of technology. Here's a glimpse into who I am:
+<h2>About Me:</h2>
 
-🔭 Currently, I'm immersed in the dynamic realm of React, crafting innovative solutions for a project that sparks my creativity.
+<p>Hello there! I'm a passionate Java Full Stack developer on an exciting journey in the world of learning. Here's a glimpse About me:</p>
 
-👯 I'm eager to collaborate on a Full Stack project, bringing together the best of both worlds to create something remarkable.
-
-🤝 Seeking knowledge exchange! Whether it's frontend magic or backend brilliance, I'm open to collaborating and sharing insights with fellow developers.
-
-🌱 I'm in a continuous learning mode, delving into the realms of React for front-end brilliance, Java for robust backend solutions, and SQL for efficient data management.
-
+🔭 Currently, I'm Learning React,SQL,Node.Js and Express.Js.
+👯 I'm eager to collaborate on a Full Stack projects.
+🤝 Seeking knowledge exchange! Whether it's frontend magic or backend brilliance, with fellow developers.
+🌱 Learning Java for robust backend solutions, and SQL for efficient data management.
 💬 Ask me about anything related to React, MongoDB, SQL, or Java. I love discussing these topics and sharing knowledge.
-
-⚡ Fun Fact: I believe I'm funny, and I'm always up for a good laugh! Life is too short not to find joy in the little moments.
+⚡ Fun Fact: I believe I'm funny 🧑‍💻.
 
 Let's connect, collaborate, and code our way to excellence! 🚀👨‍💻
 
