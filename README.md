@@ -1,5 +1,20 @@
-# 💫 About Me:
-🔭 I’m currently working on a React project<br>👯 I’m looking to collaborate on a Full Stack project<br>🤝 I’m looking for help with Backed and frontend knowledge <br>🌱 I’m currently learning React Java and SQL<br>💬 Ask me about React, MongoDB, SQL, Java<br>⚡ Fun fact is that I think I am funny
+
+🚀 About Me:
+Hello there! I'm a passionate developer on an exciting journey in the world of technology. Here's a glimpse into who I am:
+
+🔭 Currently, I'm immersed in the dynamic realm of React, crafting innovative solutions for a project that sparks my creativity.
+
+👯 I'm eager to collaborate on a Full Stack project, bringing together the best of both worlds to create something remarkable.
+
+🤝 Seeking knowledge exchange! Whether it's frontend magic or backend brilliance, I'm open to collaborating and sharing insights with fellow developers.
+
+🌱 I'm in a continuous learning mode, delving into the realms of React for front-end brilliance, Java for robust backend solutions, and SQL for efficient data management.
+
+💬 Ask me about anything related to React, MongoDB, SQL, or Java. I love discussing these topics and sharing knowledge.
+
+⚡ Fun Fact: I believe I'm funny, and I'm always up for a good laugh! Life is too short not to find joy in the little moments.
+
+Let's connect, collaborate, and code our way to excellence! 🚀👨‍💻
 
 
 ## 🌐 Socials:
