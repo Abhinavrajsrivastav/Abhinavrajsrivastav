@@ -4,10 +4,15 @@
 <p>Hello there! I'm a passionate Java Full Stack developer on an exciting journey in the world of learning. Here's a glimpse About me:</p>
 
 🔭 Currently, I'm Learning React,SQL,Node.Js and Express.Js.
+
 👯 I'm eager to collaborate on a Full Stack projects.
+
 🤝 Seeking knowledge exchange! Whether it's frontend magic or backend brilliance, with fellow developers.
+
 🌱 Learning Java for robust backend solutions, and SQL for efficient data management.
+
 💬 Ask me about anything related to React, MongoDB, SQL, or Java. I love discussing these topics and sharing knowledge.
+
 ⚡ Fun Fact: I believe I'm funny 🧑‍💻.
 
 Let's connect, collaborate, and code our way to excellence! 🚀👨‍💻
