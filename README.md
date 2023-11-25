@@ -1,5 +1,5 @@
 <h2>About Me:</h2>
-<p>Hello there! I'm Abhinav Raj Srivastav 🙋‍♂️ and I am on an exciting journey in the world of learning ✨</p>
+<p>Hey there 🙋‍♂️! I'm Abhinav Raj Srivastav and I am on an exciting journey in the world of learning ✨</p>
 Let's connect, collaborate, and code our way to excellence! 🚀👨‍💻
 
 
