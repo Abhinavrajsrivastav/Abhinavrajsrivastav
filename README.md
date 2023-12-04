@@ -1,7 +1,7 @@
 <h2> Hi, I'm Abhinav Srivastav. 
   <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 </h2>
-<img align='right' src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="230">
+<img align='right' src="https://i.pinimg.com/originals/ef/09/36/ef0936558e58d6bebf73fee2ae895fe3.gif" width="230">
 <p>
   <em>
     Computer engineering student at 
