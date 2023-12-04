@@ -20,7 +20,7 @@
 
 ## <p>Tech Stack:</p>
 ```javascript
-const MySkillSet = {
+var MySkillSet = {
   tools: ["ReactJS", "TailwindCSS", "NodeJS"],
   languages: ["Java", "Javascript", "HTML", "CSS"],
   team tools: ["Github", "Discord", "Twitter"],
