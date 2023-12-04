@@ -1,5 +1,4 @@
-<h2> Hi, I'm Abhinav Srivastav. 
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="50">
+<h2> Hi, I'm Abhinav Srivastav.<img src="https://help.ko-fi.com/hc/article_attachments/4405602148625/66954dea-285c-4bdc-b3ee-6ed18f8fb027_penguuu.gif" width="50">
 </h2>
 <img align='right' src="https://media1.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="230" style="border-radius: 50">
 
