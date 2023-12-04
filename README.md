@@ -22,8 +22,8 @@
 ```javascript
 const MySkillSet = {
   tools: ["ReactJS", "TailwindCSS", "NodeJS"],
-  languages: ["Java", "Javascript", "HTML", "CSS", "Python"],
-  team tools: ["Github", "Discord", "Trello"],
+  languages: ["Java", "Javascript", "HTML", "CSS"],
+  team tools: ["Github", "Discord", "Twitter"],
 }
 ```
 <h2 align="start">Github Status</h2>
