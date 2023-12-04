@@ -21,7 +21,7 @@
 ## <p>Tech Stack:</p>
 ```javascript
 var MySkillSet = {
-  tools: ["ReactJS", "TailwindCSS", "NodeJS"],
+  tools: ["ReactJS", "TailwindCSS", "JDBC"],
   languages: ["Java", "Javascript", "HTML", "CSS"],
   team tools: ["Github", "Discord", "Twitter"],
 }
