@@ -7,7 +7,7 @@
     Computer engineering student at 
     <a href="https://abes.ac.in/">
       ABES Engineering College</a>
-    <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+    <img src="https://i.pinimg.com/originals/ef/09/36/ef0936558e58d6bebf73fee2ae895fe3.gif" width="30">
   </br>
     Full stack web enthusiastic
     <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
