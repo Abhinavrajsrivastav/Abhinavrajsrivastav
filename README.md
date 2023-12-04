@@ -4,19 +4,15 @@
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 <p>
   <em>
-    Computer engineering graduate at 
-    <a href="https://www.iust.ac.ir/">
-      Iran University of Science And Technology</a>
+    Computer engineering student at 
+    <a href="https://abes.ac.in/">
+      ABES Engineering College</a>
     <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
   </br>
-    Frontend Developer
+    Full stack web enthusiastic
     <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
   </em>
 </p>
-
-<h2>About Me:</h2>
-<p>Hey there 🙋‍♂️! I'm Abhinav Raj Srivastav and I am on an exciting journey in the world of learning ✨</p>
-Let's connect, collaborate, and code our way to excellence! 🚀👨‍💻
 
 
 ## Let's connect:
