@@ -73,10 +73,6 @@ Productivity Stats📈:
 ---
 [![](https://visitcount.itsvg.in/api?id=Abhinavrajsrivastav&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-<------------------------------Language used----------------------------->
 
 <!----------------------------------{ language badges }--------------------------------->
 
@@ -108,6 +104,6 @@ Productivity Stats📈:
 
 <!----------------------------------{ reference links }--------------------------------->
 
-[stats]: https://github-readme-stats-sigma-five.vercel.app/api?username=Ananya01Agrawal&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=false
-[langs]: https://github-readme-stats.vercel.app/api/top-langs/?username=Ananya01Agrawal&theme=dark&hide_border=false&count_private=false&layout=compact&langs_count=10&hide=html,css,scss,less,stylus,shell,makefile,cmake,perl,php,blade,smarty,scss,less,stylus,shell,makefile,cmake,perl,php,blade,smarty,jupyter+notebook,
-[streaks]: https://github-readme-streak-stats.herokuapp.com/?user=Ananya01Agrawal&theme=dark&hide_border=false#gh-light-mode-only
+[stats]: https://github-readme-stats-sigma-five.vercel.app/api?username=Abhinavrajsrivastav&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&count_private=false
+[langs]: https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinavrajsrivastav&theme=dark&hide_border=false&count_private=false&layout=compact&langs_count=10&hide=html,css,scss,less,stylus,shell,makefile,cmake,perl,php,blade,smarty,scss,less,stylus,shell,makefile,cmake,perl,php,blade,smarty,jupyter+notebook,
+[streaks]: https://github-readme-streak-stats.herokuapp.com/?userAbhinavrajsrivastav=&theme=dark&hide_border=false#gh-light-mode-only
