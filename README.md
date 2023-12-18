@@ -3,7 +3,7 @@
 <h2>𝐇𝐢, 𝐈'𝐦 𝐀𝐛𝐡𝐢𝐧𝐚𝐯 𝐒𝐫𝐢𝐯𝐚𝐬𝐭𝐚𝐯.
 <!--   <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> -->
 </h2>
-<img align='right' src="https://media1.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="160" style="border-radius: 50">
+<img align='right' src="https://media1.giphy.com/media/lP8xu5t2DLGG045H8F/giphy.gif" width="190" style="border-radius: 50">
 
 <p>
   
