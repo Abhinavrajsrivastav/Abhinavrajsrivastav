@@ -44,6 +44,12 @@ var MySkillSet = {
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="67" height="67" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="67" height="67" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="67" height="67" /><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="67" height="67" /><img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="67" height="67" />
 <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="67" height="67" /></div>
 <img align="right" alt="coding" width="200" height="200" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/keep_coding.gif">
+![][c]  ![][java] ![][python] <br>
+![][flutter] ![][html] ![][css] ![][javascript] <br>
+ ![][mysql]  ![][gcp] ![][heroku] ![][kubernetes] <br>
+![][git] ![][github] ![][markdown]<br>
+</div><br>
+
   
 <h2 align="start">Github Status</h2>
 
