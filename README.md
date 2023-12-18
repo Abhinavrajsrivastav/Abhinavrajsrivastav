@@ -1,7 +1,3 @@
-
-
-
-
 <h2>𝐇𝐢, 𝐈'𝐦 𝐀𝐛𝐡𝐢𝐧𝐚𝐯 𝐒𝐫𝐢𝐯𝐚𝐬𝐭𝐚𝐯.
 <!--   <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> -->
 </h2>
@@ -31,14 +27,7 @@ Productivity Stats📈:
    </tr> 
 </table>
 
-## <p>Tech Stack:</p>
-```javascript
-var MySkillSet = {
-  frameworks: ["ReactJS", "TailwindCSS", "JDBC","Servlet"],
-  languages: ["Java", "Javascript", "HTML", "CSS"],
-  team tools: ["Github", "Discord", "Twitter"],
-}
-```
+
 ## 💻 Tech Stack:
 
 <div align="center">
