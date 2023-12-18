@@ -55,25 +55,12 @@ var MySkillSet = {
 
   <br>
 
-  <img src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/logos/c.png" alt="C" width="67" height="67" />
-  <img src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/logos/flutter.png" alt="Flutter" width="67" height="67" />
-  <img src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/logos/html.png" alt="HTML" width="67" height="67" />
-  <img src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/logos/css.png" alt="CSS" width="67" height="67" />
-  <img src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/logos/javascript.png" alt="JavaScript" width="67" height="67" />
-
-  <br>
-
-  <img src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/logos/mysql.png" alt="MySQL" width="67" height="67" />
-  <img src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/logos/gcp.png" alt="Google Cloud Platform" width="67" height="67" />
-  <img src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/logos/heroku.png" alt="Heroku" width="67" height="67" />
-  <img src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/logos/kubernetes.png" alt="Kubernetes" width="67" height="67" />
-
-  <br>
-
-  <img src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/logos/git.png" alt="Git" width="67" height="67" />
-  <img src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/logos/github.png" alt="GitHub" width="67" height="67" />
-  <img src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/logos/markdown.png" alt="Markdown" width="67" height="67" />
+  ![][c]  ![][java] ![][python] <br>
+  ![][flutter] ![][html] ![][css] ![][javascript] <br>
+  ![][mysql]  ![][gcp] ![][heroku] ![][kubernetes] <br>
+  ![][git] ![][github] ![][markdown]<br>
 </div>
+
 
 
   
