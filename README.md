@@ -25,7 +25,7 @@
 Productivity Stats📈:
 <table>
   <tr>
-    <td><center><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhinavrajsrivastav&theme=monokai"  display=block width=100% height=auto  alt="1" ></center></td></b>
+    <td><center><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhinavrajsrivastav&theme=monokai"  display=block width=80% height=auto  alt="1" ></center></td></b>
    </tr> 
 </table>
 
