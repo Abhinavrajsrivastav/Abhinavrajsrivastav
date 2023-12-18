@@ -39,6 +39,7 @@ var MySkillSet = {
   team tools: ["Github", "Discord", "Twitter"],
 }
 ```
+
 ## 💻 Tech Stack:
 <div align="center">
 <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="67" height="67" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="67" height="67" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="67" height="67" /><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="67" height="67" /><img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="67" height="67" />
@@ -51,6 +52,23 @@ var MySkillSet = {
  ![][mysql]  ![][gcp] ![][heroku] ![][kubernetes] <br>
 ![][git] ![][github] ![][markdown]<br>
 </div><br>
+
+## 📝 IDE Used:
+![][vscode] ![][pycharm] ![][intelij]  <br><br>
+
+### Learning Sources
+
+<hr/>
+
+<img align="left" alt="Google" width="100px" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/google-2015-google-new-google-icon.svg" />
+<img align="left" alt="W3school" width="60px" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/w3school.png" />
+<img align="left" alt="gfg" width="90px" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/geeksforgeeks-17.png" />
+<img align="left" alt="Udemy" width="60px" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/udemy.webp" />
+<img align="left" alt="Codepen" width="60px" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/social-32-512.webp" />
+<img align="left" alt="YouTube" width="60px" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/youtube.webp" />
+<img align="left" alt="coursera" width="90px" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/coursera_logo_icon.png" />
+
+<br><br><br><br>
 
   
 <h2 align="start">Github Status</h2>
