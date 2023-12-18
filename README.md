@@ -11,10 +11,10 @@
     Computer engineering student at 
     <a href="https://abes.ac.in/">
       ABES Engineering College</a>
-    <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+    <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="20">
   </br>
     Full stack web enthusiastic
-    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20"> 
   </em>
 </p>
 
