@@ -39,36 +39,42 @@ var MySkillSet = {
   team tools: ["Github", "Discord", "Twitter"],
 }
 ```
-
 ## 💻 Tech Stack:
+
 <div align="center">
-<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="67" height="67" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="67" height="67" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="67" height="67" /><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="67" height="67" /><img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="67" height="67" />
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="67" height="67" /></div>
-<img align="right" alt="coding" width="200" height="200" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/keep_coding.gif">
+  <div style="display: flex; align-items: flex-start;">
+    <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="67" height="67" />
+    <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="67" height="67" />
+    <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="67" height="67" />
+    <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="67" height="67" />
+    <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="Prettier" width="67" height="67" />
+    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="67" height="67" />
+  </div>
 
+  <img align="right" alt="coding" width="200" height="200" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/keep_coding.gif">
 
-![][c]  ![][java] ![][python] <br>
-![][flutter] ![][html] ![][css] ![][javascript] <br>
- ![][mysql]  ![][gcp] ![][heroku] ![][kubernetes] <br>
-![][git] ![][github] ![][markdown]<br>
-</div><br>
+  <br>
 
-## 📝 IDE Used:
-![][vscode] ![][pycharm] ![][intelij]  <br><br>
+  <img src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/logos/c.png" alt="C" width="67" height="67" />
+  <img src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/logos/flutter.png" alt="Flutter" width="67" height="67" />
+  <img src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/logos/html.png" alt="HTML" width="67" height="67" />
+  <img src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/logos/css.png" alt="CSS" width="67" height="67" />
+  <img src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/logos/javascript.png" alt="JavaScript" width="67" height="67" />
 
-### Learning Sources
+  <br>
 
-<hr/>
+  <img src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/logos/mysql.png" alt="MySQL" width="67" height="67" />
+  <img src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/logos/gcp.png" alt="Google Cloud Platform" width="67" height="67" />
+  <img src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/logos/heroku.png" alt="Heroku" width="67" height="67" />
+  <img src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/logos/kubernetes.png" alt="Kubernetes" width="67" height="67" />
 
-<img align="left" alt="Google" width="100px" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/google-2015-google-new-google-icon.svg" />
-<img align="left" alt="W3school" width="60px" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/w3school.png" />
-<img align="left" alt="gfg" width="90px" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/geeksforgeeks-17.png" />
-<img align="left" alt="Udemy" width="60px" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/udemy.webp" />
-<img align="left" alt="Codepen" width="60px" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/social-32-512.webp" />
-<img align="left" alt="YouTube" width="60px" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/youtube.webp" />
-<img align="left" alt="coursera" width="90px" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/coursera_logo_icon.png" />
+  <br>
 
-<br><br><br><br>
+  <img src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/logos/git.png" alt="Git" width="67" height="67" />
+  <img src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/logos/github.png" alt="GitHub" width="67" height="67" />
+  <img src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/logos/markdown.png" alt="Markdown" width="67" height="67" />
+</div>
+
 
   
 <h2 align="start">Github Status</h2>
