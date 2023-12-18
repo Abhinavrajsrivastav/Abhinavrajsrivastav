@@ -48,9 +48,8 @@ Productivity Stats📈:
   <br>
 
   ![][c]  ![][java] ![][python] <br>
-  ![][flutter] ![][html] ![][css] ![][javascript] <br>
-  ![][mysql]  ![][gcp] ![][heroku] ![][kubernetes] <br>
-  ![][git] ![][github] ![][markdown]<br>
+ ![][html] ![][css] ![][javascript] ![][gcp] <br>
+ ![][mysql]  ![][git] ![][github] ![][markdown]<br>
 </div>
 
 
