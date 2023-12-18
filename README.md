@@ -73,8 +73,6 @@ https://img.shields.io/github/followers/:user
 
 ---
 ---
-[![](https://visitcount.itsvg.in/api?id=Abhinavrajsrivastav&icon=0&color=0)](https://visitcount.itsvg.in)
-
 
 <!----------------------------------{ language badges }--------------------------------->
 
