@@ -9,7 +9,7 @@
 <p>
   
   <em>
-    Computer science engineering student at 
+    Computer science student at 
     <a href="https://abes.ac.in/">
       ABES Engineering College</a>
     <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="20">
