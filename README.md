@@ -70,8 +70,6 @@
   </div>
 </div>  
 
-https://img.shields.io/github/followers/:user
-
 ---
 ---
 
