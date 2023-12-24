@@ -53,7 +53,7 @@
 
   ![][c]  ![][java] ![][python] <br>
  ![][html] ![][css] ![][javascript] ![][mysql] <br>
-![][git] ![][github] ![][markdown] ![][NodeJS] <br>
+![][git] ![][github] ![][markdown] ![][React] <br>
 </div>
 
 
@@ -102,7 +102,7 @@
 [vscode]: https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white
 [pycharm]: https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green
 [intelij]: https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white
-[NodeJS]: https://img.shields.io/badge/Node.js-green/style=for-the-badge
+[![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
 
 
 <!----------------------------------{ reference links }--------------------------------->
