@@ -52,7 +52,7 @@
   <br>
 
   ![][c] ![][java] ![][javascript] <br>
-![][Hibernate] ![][React] ![][Spring] ![][Spring Boot] <br>
+![][React] ![][Hibernate] ![][Spring] ![][Spring Boot] <br>
 ![][mysql] ![][git] ![][github]![][python] <br>
 </div>
 
