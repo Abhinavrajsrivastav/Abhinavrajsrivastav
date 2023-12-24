@@ -51,9 +51,9 @@
 
   <br>
 
-  ![][c]  ![][java] ![][python] <br>
- ![][html] ![][css] ![][javascript] ![][mysql] <br>
-![][git] ![][github] ![][markdown] ![][React] <br>
+  ![][c] ![][java] ![][javascript] <br>
+![][Hibernate] ![][React] ![][Spring] ![][Spring Boot] <br>
+![][mysql] ![][git] ![][github]![][python] <br>
 </div>
 
 
@@ -102,7 +102,13 @@
 [vscode]: https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white
 [pycharm]: https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green
 [intelij]: https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white
-[React]:  https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=logoColor=blue
+[React]:  https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=blue
+[Spring]: https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white
+[Hibernate]: https://img.shields.io/badge/Hibernate-59666C.svg?style=for-the-badge&logo=hibernate&logoColor=white
+[Spring Boot]: https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white
+
+
+
 
 
 <!----------------------------------{ reference links }--------------------------------->
