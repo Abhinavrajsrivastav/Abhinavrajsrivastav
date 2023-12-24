@@ -38,7 +38,7 @@
 ## 💻 Tech Stack:
 
 <div align="center">
-  <div style="display: flex; align-items: flex-start;">
+  <div style="display: flex; align-items: flex-center;">
     <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="67" height="67" />
     <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="67" height="67" />
     <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="67" height="67" />
