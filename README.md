@@ -52,8 +52,8 @@
   <br>
 
   ![][c]  ![][java] ![][python] <br>
- ![][html] ![][css] ![][javascript] ![][gcp] <br>
- ![][mysql]  ![][git] ![][github] ![][markdown]<br>
+ ![][html] ![][css] ![][javascript] ![][mysql] <br>
+![][git] ![][github] ![][markdown]<br>
 </div>
 
 
