@@ -26,14 +26,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_abhinav_srivastav__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinav-raj-srivastav-599aaa1b2/?originalSubdomain=in) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://www.quora.com/profile/Abhinav-Srivastav-189) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/Brilliant_Eye2855) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/srivast254) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCQbYznJOHsukO50pvrphMUg) ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCQbYznJOHsukO50pvrphMUg)
 
 
-<!--Productivity Stats📈:
-<table>
-  <tr>
-    <td><center><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhinavrajsrivastav&theme=monokai"  display=block width=100% height=auto  alt="1" ></center></td></b>
-   </tr> 
- </table> -->
-
-
 
 ## 💻 Tech Stack:
 
@@ -47,7 +39,6 @@
     <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="67" height="67" />
   </div>
 
-  <img align="right" alt="coding" width="200" height="200" src="https://github.com/03prashantpk/03prashantpk/blob/main/assets/keep_coding.gif">
 
   <br>
 
