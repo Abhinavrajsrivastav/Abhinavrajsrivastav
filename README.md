@@ -46,8 +46,8 @@
   <br>
 
   ![][c] ![][java] ![][javascript] <br>
-![][React] ![][Hibernate] ![][Spring] ![][Spring Boot] <br>
-![][mysql] ![][git] ![][github]![][python] <br>
+![][React] ![][Hibernate] ![][Spring] ![][Spring Boot] ![][Thymleaf] <br>
+![][mysql] ![][git] ![][github]![][python]<br>
 </div>
 
 
@@ -100,7 +100,7 @@
 [Spring]: https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white
 [Hibernate]: https://img.shields.io/badge/Hibernate-59666C.svg?style=for-the-badge&logo=hibernate&logoColor=white
 [Spring Boot]: https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white
-
+[Thymleaf]: https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=thymleaf&logoColor=white
 
 
 
