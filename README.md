@@ -45,9 +45,9 @@
 
   <br>
 
-  ![][c] ![][java] ![][javascript] <br>
+  ![][c] ![][java] ![][javascript] ![][python]<br>
 ![][React] ![][Hibernate] ![][Spring] ![][Spring Boot] ![][Thymleaf] <br>
-![][mysql] ![][git] ![][github]![][python]<br>
+![][mysql] ![MongoDB] ![][Apache Tomcat] ![][git] ![][github]<br>
 </div>
 
 
@@ -100,7 +100,9 @@
 [Spring]: https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white
 [Hibernate]: https://img.shields.io/badge/Hibernate-59666C.svg?style=for-the-badge&logo=hibernate&logoColor=white
 [Spring Boot]: https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white
-[Thymleaf]: https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=thymleaf&logoColor=white
+[Thymleaf]: https://img.shields.io/badge/Thymeleaf-005F0F.svg?style=for-the-badge&logo=thymeleaf&logoColor=white
+[Apache Tomcat]: https://img.shields.io/badge/Apache%20Tomcat-D22128.svg?style=for-the-badge&logo=apache-tomcat&logoColor=white
+[MongoDB]: https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white
 
 
 
