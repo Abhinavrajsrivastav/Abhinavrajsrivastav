@@ -46,9 +46,9 @@
 
   <br>
 
-  ![][c] ![][java] ![][javascript] ![][python]<br>
-![][React] ![][Hibernate] ![][Spring] ![][Spring Boot] ![][Thymleaf] <br>
-![][mysql] ![MongoDB] ![][Apache Tomcat] ![][git] ![][github]<br>
+  ![][c] ![][java] ![][javascript]<br>
+![][React] ![][Hibernate] ![][Spring Boot] ![][Thymleaf] <br>
+![][mysql] ![MongoDB] ![][git]<br>
 </div>
 
 
