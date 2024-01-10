@@ -47,7 +47,7 @@
 
   ![][c] ![][java] ![][javascript]<br>
 ![][React] ![][Hibernate] ![][Spring Boot] ![][Thymleaf] <br>
-![][mysql] ![MongoDB] ![][git]<br>
+![][mysql] ![MongoDB] ![][git] ![JDBC]<br>
 </div>
 
 
@@ -103,6 +103,8 @@
 [Thymleaf]: https://img.shields.io/badge/Thymeleaf-005F0F.svg?style=for-the-badge&logo=thymeleaf&logoColor=white
 [Apache Tomcat]: https://img.shields.io/badge/Apache%20Tomcat-D22128.svg?style=for-the-badge&logo=apache-tomcat&logoColor=white
 [MongoDB]: https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white
+[JDBC]: https://img.shields.io/badge/JDBC-007396.svg?style=for-the-badge&logo=java&logoColor=white
+
 
 
 
