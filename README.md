@@ -45,10 +45,10 @@
 
   <br>
 
-![][java] ![][javascript] ![][c] <br>
+![][c] ![][java] ![][javascript]<br>
 ![][React] ![][REST API] ![][Spring Boot] ![][Thymleaf] <br>
 ![][mysql] ![MongoDB] ![][git]![][Apache Tomcat]<br>
-![][JDBC] ![][Maven ![][JPA] ![][Hibernate]<br>
+![][JDBC] ![][Maven] ![][JPA] ![][Hibernate]<br>
 </div>
 
 
