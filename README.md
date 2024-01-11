@@ -47,8 +47,8 @@
 
 ![][java] ![][javascript] ![][c] <br>
 ![][React] ![][REST API] ![][Spring Boot] ![][Thymleaf] <br>
-![][mysql] ![MongoDB] ![][git] ![][Hibernate] <br>
-![][JPA] ![][Maven] ![][Apache Tomcat] ![][JDBC]<br>
+![][mysql] ![MongoDB] ![][git]![][Apache Tomcat]<br>
+![][JDBC] ![][Maven] ![][Apache Tomcat] ![][JPA] ![][Hibernate]<br>
 </div>
 
 
