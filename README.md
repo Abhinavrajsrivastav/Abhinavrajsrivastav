@@ -63,13 +63,7 @@
       <img width=400 src="https://streak-stats.demolab.com/?user=Abhinavrajsrivastav&theme=transparent&hide_border=true" />
     </a>
   </div>
-</div>  
-
----
-
-
----
----
+</div>
 
 <!----------------------------------{ language badges }--------------------------------->
 
