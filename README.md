@@ -51,18 +51,10 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 
   <br>
 
-## 💻 Tech Stack:
-![][c] ![][java] ![][javascript] <br>
+![][c] ![][java] ![][javascript]<br>
 ![][React] ![][REST API] ![][Spring Boot] ![][Thymleaf] <br>
-![][mysql] ![][MongoDB] ![][git] ![][Apache Tomcat] <br>
-![][JDBC] ![][Maven] ![][JPA] ![][Hibernate] <br>
-![][docker] ![][kubernetes] ![][github] ![][vscode] <br>
-![][pycharm] ![][heroku] ![][gcp] ![][firebase] ![][aws] <br>
-
-  <br>
-
-  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCQbYznJOHsukO50pvrphMUg) ![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCQbYznJOHsukO50pvrphMUg)
-
+![][mysql] ![MongoDB] ![][git] ![][Apache Tomcat]<br>
+![][JDBC] ![][Maven] ![][JPA] ![][Hibernate]<br>
 </div>
 
 <h2 align="start">Github Status</h2>
