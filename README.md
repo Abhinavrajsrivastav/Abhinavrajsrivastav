@@ -11,18 +11,13 @@
   <em>
     Computer science student at 
     <a href="https://abes.ac.in/">
-      ABES Engineering College</a>
+      ABES Engineering College. I'm a passionate self-taught full stack web developer and a freelance software engineer from india</a>
     <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="20">
   </br>
     Full stack web enthusiastic
     <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20"> 
   </em>
 </p>
-
-
-hi, i'm a passionate self-taught full stack web developer and a freelance software engineer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience, architecture, and code quality of the things I build.
-
-i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
   
 - 💼 any freelance work? do reach, [email](mailto:abhiraj.srivast254@gmail.com) :)
