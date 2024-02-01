@@ -12,7 +12,6 @@
     Computer science student at 
     <a href="https://abes.ac.in/">
       ABES Engineering College.</a>
-      I'm a passionate self-taught full stack web developer and a freelance software engineer from india
     <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="20">
   </br>
     Full stack web enthusiastic
