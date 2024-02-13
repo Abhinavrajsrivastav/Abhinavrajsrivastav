@@ -53,6 +53,7 @@
 ![][React] ![][REST API] ![][Spring Boot] ![][Thymleaf] <br>
 ![][mysql] ![MongoDB] ![][git] ![][Apache Tomcat]<br>
 ![][JDBC] ![][Maven] ![][JPA] ![][Hibernate]<br>
+![][heroku] ![][aws] ![][docker] 
 </div>
 
 <h2 align="start">Github Status</h2>
