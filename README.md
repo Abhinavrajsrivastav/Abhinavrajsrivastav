@@ -50,7 +50,7 @@
   <br>
 
 ![][c] ![][java] ![][javascript]<br>
-![][React] ![][REST API] ![][Spring Boot] ![][Thymleaf] <br>
+![][React] ![][Spring Boot] ![][Thymleaf] <br>
 ![][mysql] ![MongoDB] ![][git] ![][Apache Tomcat]<br>
 ![][heroku] ![][aws] ![][docker] 
 ![][JDBC] ![][Maven] ![][JPA] ![][Hibernate]<br>
