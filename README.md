@@ -50,10 +50,10 @@
   <br>
 
 ![][c] ![][java] ![][javascript]<br>
-![][React] ![][Spring Boot] ![][Thymleaf] <br>
+![][React] ![][Spring Boot] ![][Node.js]<br>
 ![][mysql] ![MongoDB] ![][git] ![][Apache Tomcat]<br>
 ![][heroku] ![][aws] ![][docker] 
-![][JDBC] ![][Maven] ![][JPA] ![][Hibernate]<br>
+![][Maven] ![][JPA] ![][Hibernate]<br>
 </div>
 
 <h2 align="start">Github Status</h2>
@@ -108,6 +108,10 @@
 [Maven]: https://img.shields.io/badge/Maven-green.svg?style=for-the-badge&logo=apache-maven&logoColor=white
 [Apache Tomcat]: (https://img.shields.io/badge/Apache%20Tomcat-orange.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black
 [REST API]: https://img.shields.io/badge/REST%20API-009688.svg?style=for-the-badge&logo=restapi&logoColor=white
+[Node.js]: https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=node.js&logoColor=white
+[Express]: https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=express&logoColor=white
+[npm]: https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white
+
 
 
 
