@@ -50,7 +50,7 @@
 ![][React] ![][Spring Boot] ![][Node.js]<br>
 ![][mysql] ![MongoDB] ![][git] ![][Apache Tomcat]<br>
 ![][heroku] ![][aws] ![][docker] 
-![][Maven] ![][JPA] ![][Hibernate]<br>
+![][Maven] ![][render]<br>
 </div>
 
 <h2 align="start">Github Status</h2>
@@ -75,6 +75,7 @@
 [markdown]: https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown
 [python]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
 [heroku]: https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku
+[render]: https://img.shields.io/badge/render-%23430098.svg?style=for-the-badge&logo=render
 [gcp]: https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white
 [firebase]: https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase
 [aws]: https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws
