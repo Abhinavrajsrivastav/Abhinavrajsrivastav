@@ -15,7 +15,7 @@
       ABES Engineering College.</a>
     <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="20">
   </br>
-    Full stack web enthusiastic
+    Full stack Java enthusiastic and ML Engineer
     <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="20"> 
   </em>
 </p>
