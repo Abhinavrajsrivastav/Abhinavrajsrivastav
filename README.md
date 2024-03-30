@@ -67,11 +67,13 @@
 </div>
 
 
+<!--
 ## ☕ Support Me
 
 If you find my work helpful or interesting, you can support me by buying me a coffee!
 
 <a href="https://www.buymeacoffee.com/abhirajsriq" target="_blank"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=abhirajsriq&button_colour=FFDD00&font_colour=000000&font_family=Poppins&outline_colour=000000&coffee_colour=ffffff" alt="Buy me a coffee"></a>
+-->
 
 
 <!----------------------------------{ language badges }--------------------------------->
