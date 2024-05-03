@@ -49,9 +49,10 @@
 
 ![][c] ![][java] ![][javascript]<br>
 ![][React] ![][Spring Boot] ![][Node.js]<br>
-![][mysql] ![MongoDB] ![][git] ![][Apache Tomcat]<br>
-![][heroku] ![][aws] ![][docker] 
-![][Maven] ![][render]<br>
+![][firebase] ![][springSecurity] ![][junit] ![][mockito]<br>
+![][heroku] ![][aws] ![][docker] ![][render] ![][vercel]<br>
+![][mysql] ![MongoDB] ![][git] ![][Apache Tomcat]
+![][Maven]<br>
 </div>
 
 <h2 align="start">Github Status</h2>
@@ -120,6 +121,13 @@ If you find my work helpful or interesting, you can support me by buying me a co
 [Node.js]: https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=node.js&logoColor=white
 [Express]: https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=express&logoColor=white
 [npm]: https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white
+[firebase]: https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase
+[springSecurity]: https://img.shields.io/badge/Spring%20Security-6DB33F.svg?style=for-the-badge&logo=Spring%20Security&logoColor=white
+[mockito]: https://img.shields.io/badge/mockito-%238DD6F9.svg?style=for-the-badge&logo=mockito
+[junit]: https://img.shields.io/badge/junit-%23007ACC.svg?style=for-the-badge&logo=junit
+[aws]: https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white
+[vercel]: https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel
+
 
 
 
