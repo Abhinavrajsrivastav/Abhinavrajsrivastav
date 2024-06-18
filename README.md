@@ -68,14 +68,8 @@
   </div>
 </div>
 
+[![Abhinav Raj's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Abhinavrajsrivastav&bg_color=000000&color=4c4f9e&line=4c5a9e&point=fff5f5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<!--
-## ☕ Support Me
-
-If you find my work helpful or interesting, you can support me by buying me a coffee!
-
-<a href="https://www.buymeacoffee.com/abhirajsriq" target="_blank"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=abhirajsriq&button_colour=FFDD00&font_colour=000000&font_family=Poppins&outline_colour=000000&coffee_colour=ffffff" alt="Buy me a coffee"></a>
--->
 
 
 <!----------------------------------{ language badges }--------------------------------->
