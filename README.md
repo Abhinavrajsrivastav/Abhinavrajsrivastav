@@ -68,8 +68,6 @@
   </div>
 </div>
 
-[![Abhinav Raj's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Abhinavrajsrivastav&bg_color=000000&color=4c4f9e&line=4c5a9e&point=fff5f5&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
 
 
 <!----------------------------------{ language badges }--------------------------------->
