@@ -34,12 +34,11 @@
 ## 💻 Tech Stack:
 
 
-<div align="center">
+<div align="left">
   <div style="display: flex; align-items: center; justify-content: center;">
     <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="67" height="67" />
     <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="GitHub" width="67" height="67" />
     <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="67" height="67" />
-<!--     <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="Prettier" width="67" height="67" /> -->
     <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="67" height="67" />
   </div>
 
@@ -47,12 +46,12 @@
 
   <br>
 
-![][c] ![][java] ![][javascript]<br>
-![][React] ![][Spring Boot] ![][Node.js]<br>
-![][firebase] ![][springSecurity] ![][junit] ![][mockito]<br>
-![][heroku] ![][aws] ![][docker] ![][render] ![][vercel]<br>
+![][c] ![][java] ![][javascript]
+![][React] ![][Spring Boot] ![][Node.js]
+![][firebase] ![][springSecurity] ![][junit] ![][mockito]
+![][heroku] ![][aws] ![][docker] ![][kubernetes] ![][render] ![][vercel]
 ![][mysql] ![MongoDB] ![][git] ![][Apache Tomcat]
-![][Maven]<br>
+![][Maven]
 </div>
 
 <h2 align="start">Github Status</h2>
