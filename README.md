@@ -46,12 +46,13 @@
 
   <br>
 
-![][c] ![][java] ![][javascript]
+![][c] ![][java] ![][kotlin] ![][javascript]
 ![][React] ![][Spring Boot] ![][Node.js]
 ![][firebase] ![][springSecurity] ![][junit] ![][mockito]
 ![][heroku] ![][aws] ![][docker] ![][kubernetes] ![][render] ![][vercel]
-![][mysql] ![MongoDB] ![][git] ![][Apache Tomcat]
-![][Maven]
+![][mysql] ![][MongoDB] ![][git] ![][Apache Tomcat] ![][Maven]
+![][kafka] ![][selenium] ![][azure]
+
 </div>
 
 <h2 align="start">Github Status</h2>
@@ -72,52 +73,30 @@
 <!----------------------------------{ language badges }--------------------------------->
 
 [c]: https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c
-[c++]: https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B
-[dart]: https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart
 [java]: https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java
-[markdown]: https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown
-[python]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
-[heroku]: https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku
-[render]: https://img.shields.io/badge/render-%23430098.svg?style=for-the-badge&logo=render
-[gcp]: https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white
-[firebase]: https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase
-[aws]: https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws
-[css]: https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3
+[kotlin]: https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin
 [javascript]: https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E
-[html]: https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5
-[shell]: https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash
-[typescript]: https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript
-[flutter]: https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter
-[docker]: https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white
-[kubernetes]: https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white
-[github]: https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white
-[mysql]: https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white
-[arch]: https://img.shields.io/badge/archlinux-%231793D1.svg?style=for-the-badge&logo=arch-linux&logoColor=white
-[git]: https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white
-[vscode]: https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white
-[pycharm]: https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green
-[intelij]: https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white
-[React]:  https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=blue
-[Spring]: https://img.shields.io/badge/Spring-6DB33F.svg?style=for-the-badge&logo=spring&logoColor=white
-[Hibernate]: https://img.shields.io/badge/Hibernate-59666C.svg?style=for-the-badge&logo=hibernate&logoColor=white
+[React]: https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=blue
 [Spring Boot]: https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white
-[Thymleaf]: https://img.shields.io/badge/Thymeleaf-005F0F.svg?style=for-the-badge&logo=thymeleaf&logoColor=white
-[Apache Tomcat]: https://img.shields.io/badge/Apache%20Tomcat-D22128.svg?style=for-the-badge&logo=apache-tomcat&logoColor=white
-[MongoDB]: https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white
-[JDBC]: https://img.shields.io/badge/JDBC-007396.svg?style=for-the-badge&logo=jdbc&logoColor=white
-[JPA]: https://img.shields.io/badge/JPA-C71D2B.svg?style=for-the-badge&logo=jpa&logoColor=white
-[Maven]: https://img.shields.io/badge/Maven-green.svg?style=for-the-badge&logo=apache-maven&logoColor=white
-[Apache Tomcat]: (https://img.shields.io/badge/Apache%20Tomcat-orange.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black
-[REST API]: https://img.shields.io/badge/REST%20API-009688.svg?style=for-the-badge&logo=restapi&logoColor=white
 [Node.js]: https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=node.js&logoColor=white
-[Express]: https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=express&logoColor=white
-[npm]: https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white
 [firebase]: https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase
 [springSecurity]: https://img.shields.io/badge/Spring%20Security-6DB33F.svg?style=for-the-badge&logo=Spring%20Security&logoColor=white
-[mockito]: https://img.shields.io/badge/mockito-%238DD6F9.svg?style=for-the-badge&logo=mockito
 [junit]: https://img.shields.io/badge/junit-%23007ACC.svg?style=for-the-badge&logo=junit
-[aws]: https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white
+[mockito]: https://img.shields.io/badge/mockito-%238DD6F9.svg?style=for-the-badge&logo=mockito
+[heroku]: https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku
+[aws]: https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws
+[docker]: https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white
+[kubernetes]: https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white
+[render]: https://img.shields.io/badge/render-%23430098.svg?style=for-the-badge&logo=render
 [vercel]: https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel
+[mysql]: https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white
+[MongoDB]: https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white
+[git]: https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white
+[Apache Tomcat]: https://img.shields.io/badge/Apache%20Tomcat-D22128.svg?style=for-the-badge&logo=apache-tomcat&logoColor=white
+[Maven]: https://img.shields.io/badge/Maven-green.svg?style=for-the-badge&logo=apache-maven&logoColor=white
+[kafka]: https://img.shields.io/badge/Apache%20Kafka-231F20.svg?style=for-the-badge&logo=apache-kafka&logoColor=white
+[selenium]: https://img.shields.io/badge/selenium-43B02A.svg?style=for-the-badge&logo=selenium&logoColor=white
+[azure]: https://img.shields.io/badge/Microsoft%20Azure-0078D4.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white
 
 
 
