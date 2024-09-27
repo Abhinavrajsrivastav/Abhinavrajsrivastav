@@ -55,7 +55,22 @@
 
 </div>
 
+<div style="display: flex; justify-content: center; align-items: center; margin-top: 50px;">
+  <a href="https://quira.sh?utm_source=widgets&utm_campaign=Abhinavrajsrivastav">
+    <img src="https://stats.quira.sh/Abhinavrajsrivastav/github?theme=dark" alt="Abhinavrajsrivastav's GitHub | Stats" width="220">
+  </a>
+  <a href="https://quira.sh?utm_source=widgets&utm_campaign=Abhinavrajsrivastav">
+    <img src="https://stats.quira.sh/Abhinavrajsrivastav/languages-over-time?theme=dark" alt="Abhinavrajsrivastav's GitHub | Languages Over Time" width="220">
+  </a>
+  <a href="https://quira.sh?utm_source=widgets&utm_campaign=Abhinavrajsrivastav">
+    <img src="https://stats.quira.sh/Abhinavrajsrivastav/topics-over-time?theme=dark" alt="Abhinavrajsrivastav's GitHub | Topics Over Time" width="220">
+  </a>
+</div>
+
+
+
 <h2 align="start">Github Status</h2>
+
 
 <div align="center">
   <div>
