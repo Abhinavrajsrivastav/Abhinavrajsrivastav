@@ -47,11 +47,11 @@
   <br>
 
 ![][c] ![][java] ![][kotlin] ![][javascript]
-![][React] ![][Spring Boot] ![][Node.js]
-![][firebase] ![][springSecurity] ![][junit] ![][mockito]
-![][heroku] ![][aws] ![][docker] ![][kubernetes] ![][render] ![][vercel]
+![][React] ![][Spring Boot]
+![][firebase] ![][springSecurity] ![][junit] ![][mockito] ![][selenium]
+![][azure] ![][aws] ![][docker] ![][kubernetes] ![][kafka] 
 ![][mysql] ![][MongoDB] ![][git] ![][Apache Tomcat] ![][Maven]
-![][kafka] ![][selenium] ![][azure]
+
 
 </div>
 
